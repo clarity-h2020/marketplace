@@ -17,7 +17,7 @@
     <node id="n0">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="236.76" width="205.0" x="547.5" y="256.62"/>
+          <y:Geometry height="236.76" width="205.0" x="622.5" y="681.62"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="154.75" x="25.125" y="4.0">&lt;GroupType&gt; Solution Offer</y:NodeLabel>
@@ -29,7 +29,7 @@ Description&lt;br&gt;
 external_app&lt;br&gt;
 Illustrations&lt;br&gt;
 Link to website&lt;br&gt;
-&lt;GeoFieldMap&gt; Map&lt;br&gt;
+&amp;lt;GeoField\&amp;gt; Map&lt;br&gt;
 Offer type&lt;br&gt;
 &lt;u&gt;Reference&lt;/u&gt;&lt;br&gt;
 &lt;u&gt;Supported Scenarios&lt;/u&gt;&lt;br&gt;
@@ -52,7 +52,7 @@ Offer type&lt;br&gt;
       <data key="d5"/>
       <data key="d6">
         <y:UMLNoteNode>
-          <y:Geometry height="82.0" width="255.0" x="847.5" y="-16.0"/>
+          <y:Geometry height="82.0" width="255.0" x="-2.5" y="584.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.1875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="255.0" x="0.0" y="22.90625">This will for now be used in the Solution Reference Paragraph for the Solution offers.<y:LabelModel>
@@ -68,7 +68,7 @@ Offer type&lt;br&gt;
     <node id="n2">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="98.0" width="220.0" x="865.0" y="326.0"/>
+          <y:Geometry height="98.0" width="220.0" x="290.0" y="751.0"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="209.458984375" x="5.2705078125" y="4.0">&lt;Paragraph&gt; Solution Offer Reference</y:NodeLabel>
@@ -93,7 +93,7 @@ Description&lt;br&gt;
     <node id="n3">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="167.25235849056617" width="180.0" x="885.0" y="116.37382075471692"/>
+          <y:Geometry height="167.25235849056617" width="180.0" x="310.0" y="541.3738207547169"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.404296875" x="23.2978515625" y="4.0">&lt;EntityType&gt; Showcase</y:NodeLabel>
@@ -125,7 +125,7 @@ Location&lt;br&gt;
       <data key="d5"/>
       <data key="d6">
         <y:UMLNoteNode>
-          <y:Geometry height="82.0" width="279.4" x="835.3" y="459.0"/>
+          <y:Geometry height="82.0" width="279.4" x="260.3" y="884.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="4" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="70.375" horizontalTextPosition="center" iconTextGap="4" leftInset="4" modelName="internal" modelPosition="c" rightInset="4" textColor="#000000" topInset="4" verticalTextPosition="bottom" visible="true" width="279.4" x="0.0" y="5.8125">This will be used in the Solution offer group and contain a showcase and a description explaining why this showcase is relevant for this Solution offer.</y:NodeLabel>
@@ -135,7 +135,7 @@ Location&lt;br&gt;
     <node id="n5">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="74.45235849056621" width="180.0" x="1110.0" y="162.7738207547169"/>
+          <y:Geometry height="74.45235849056621" width="180.0" x="310.0" y="412.7738207547169"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="126.044921875" x="26.9775390625" y="4.0">&lt;TaxonomyTerm&gt; Tag</y:NodeLabel>
@@ -159,7 +159,7 @@ Description&lt;br&gt;
     <node id="n6">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="74.45235849056621" width="205.0" x="-2.5" y="337.7738207547169"/>
+          <y:Geometry height="74.45235849056621" width="205.0" x="622.5" y="162.7738207547169"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="195.396484375" x="4.8017578125" y="4.0">&lt;TaxonomyTerm&gt; Elements at Risk</y:NodeLabel>
@@ -183,7 +183,7 @@ Description&lt;br&gt;
     <node id="n7">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="74.45235849056621" width="180.0" x="285.0" y="487.7738207547169"/>
+          <y:Geometry height="74.45235849056621" width="180.0" x="85.0" y="337.7738207547169"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="144.05078125" x="17.974609375" y="4.0">&lt;TaxonomyTerm&gt; Hazard</y:NodeLabel>
@@ -209,7 +209,7 @@ Description&lt;br&gt;
       <data key="d5"/>
       <data key="d6">
         <y:UMLNoteNode>
-          <y:Geometry height="82.0" width="279.4" x="510.29999999999995" y="534.0"/>
+          <y:Geometry height="82.0" width="279.4" x="585.3" y="959.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="4" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="4" modelName="internal" modelPosition="c" rightInset="4" textColor="#000000" topInset="4" verticalTextPosition="bottom" visible="true" width="279.4" x="0.0" y="20.90625">Solution offers give solution providers the possibility to promote their products and services.</y:NodeLabel>
@@ -219,7 +219,7 @@ Description&lt;br&gt;
     <node id="n9">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="129.25235849056617" width="217.5" x="266.25" y="310.3738207547169"/>
+          <y:Geometry height="129.25235849056617" width="217.5" x="616.25" y="310.3738207547169"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.111328125" x="16.6943359375" y="4.0">&lt;EntityType&gt; Supported Scenario</y:NodeLabel>
@@ -247,7 +247,7 @@ Description&lt;br&gt;
       <data key="d5"/>
       <data key="d6">
         <y:UMLNoteNode>
-          <y:Geometry height="82.0" width="255.0" x="247.5" y="84.0"/>
+          <y:Geometry height="82.0" width="255.0" x="897.5" y="334.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="66.375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="255.0" x="0.0" y="7.8125">This content type is used for describing individual hazards, elements at risk and later possibly also the intensity or some other kind of value<y:LabelModel>
@@ -257,6 +257,48 @@ Description&lt;br&gt;
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
+        </y:UMLNoteNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
+          <y:Geometry height="184.25235849056617" width="217.5" x="66.25" y="107.87382075471692"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="103.375" x="57.0625" y="4.0">&lt;EntityType&gt; Twin</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="132.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="140.0" x="2.0" y="30.701171875">&lt;html&gt;
+Title&lt;br&gt;
+Description&lt;br&gt;
+&lt;u&gt;Elements at Risk&lt;/u&gt;&lt;br&gt;
+&lt;u&gt;Hazard&lt;/u&gt;&lt;br&gt;
+&amp;lt;GeoField\&amp;gt; Geolocation&lt;br&gt;
+Link to external website&lt;br&gt;
+Preview Image&lt;br&gt;
+Type&lt;br&gt;
+&lt;/html&gt;<y:LabelModel>
+              <y:ErdAttributesNodeLabelModel/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:ErdAttributesNodeLabelModelParameter/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Boolean" name="com.yworks.style_properties_checked" value="true"/>
+            <y:Property class="java.lang.Boolean" name="y.view.ShadowNodePainter.SHADOW_PAINTING" value="true"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d4"/>
+      <data key="d5"/>
+      <data key="d6">
+        <y:UMLNoteNode>
+          <y:Geometry height="82.0" width="279.4" x="35.30000000000001" y="-16.0"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="4" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="85.46875" horizontalTextPosition="center" iconTextGap="4" leftInset="4" modelName="internal" modelPosition="c" rightInset="4" textColor="#000000" topInset="4" verticalTextPosition="bottom" visible="true" width="279.4" x="0.0" y="-1.734375">Experimental content type for displaying climate twins using the Geofield Map module (Name of content type might change later). This will be displayed inside the studies in the Hazarad - Local Effect -&gt; Twins tab.</y:NodeLabel>
         </y:UMLNoteNode>
       </data>
     </node>
@@ -275,7 +317,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="41.0" tx="0.0" ty="-83.62617924528308"/>
+          <y:Path sx="127.5" sy="-0.0" tx="-90.0" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="circle"/>
           <y:BendStyle smoothed="false"/>
@@ -286,7 +328,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="41.0" tx="0.0" ty="-64.62617924528308"/>
+          <y:Path sx="-127.5" sy="-0.0" tx="108.75" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="circle"/>
           <y:BendStyle smoothed="false"/>
@@ -298,7 +340,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="102.5" sy="-0.0" tx="-108.75" ty="-0.0"/>
+          <y:Path sx="0.0" sy="37.226179245283106" tx="0.0" ty="-64.62617924528308"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -310,7 +352,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-37.226179245283106" tx="0.0" ty="64.62617924528308"/>
+          <y:Path sx="90.0" sy="-0.0" tx="-108.75" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -322,8 +364,8 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="25.0" sy="-64.62617924528308" tx="-90.0" ty="-0.0">
-            <y:Point x="400.0" y="200.0"/>
+          <y:Path sx="-25.0" sy="64.62617924528308" tx="90.0" ty="-0.0">
+            <y:Point x="700.0" y="625.0"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
@@ -336,7 +378,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-90.0" sy="-0.0" tx="90.0" ty="-0.0"/>
+          <y:Path sx="0.0" sy="37.226179245283106" tx="0.0" ty="-83.62617924528308"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -348,7 +390,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-102.5" sy="-0.0" tx="108.75" ty="-0.0"/>
+          <y:Path sx="0.0" sy="-118.38" tx="0.0" ty="64.62617924528308"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -360,7 +402,7 @@ Description&lt;br&gt;
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="102.5" sy="-0.0" tx="-110.0" ty="-0.0"/>
+          <y:Path sx="-102.5" sy="-0.0" tx="110.0" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -386,6 +428,41 @@ Description&lt;br&gt;
           <y:Path sx="0.0" sy="-49.0" tx="0.0" ty="83.62617924528308"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n7" target="n11">
+      <data key="d8"/>
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="-37.226179245283106" tx="0.0" ty="92.12617924528308"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n6" target="n11">
+      <data key="d8"/>
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-102.5" sy="-0.0" tx="108.75" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n12" target="n11">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="41.0" tx="0.0" ty="-92.12617924528308"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="circle"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
